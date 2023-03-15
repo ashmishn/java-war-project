@@ -81,3 +81,4 @@
         <url>https://devops400.jfrog.io/artifactory/devops</url>
     </snapshotRepository>
 </distributionManagement>
+</project>
